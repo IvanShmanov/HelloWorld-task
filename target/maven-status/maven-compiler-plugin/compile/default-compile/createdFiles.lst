@@ -1,0 +1,5 @@
+com\greetgo\task\controller\WordsController.class
+com\greetgo\task\model\Words.class
+com\greetgo\task\service\WordsServiceImpl.class
+com\greetgo\task\mapping\WordsMapper.class
+com\greetgo\task\service\WordsService.class
